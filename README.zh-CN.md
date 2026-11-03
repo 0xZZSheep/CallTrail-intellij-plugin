@@ -72,6 +72,4 @@ CallTrail 可以在 **2025.2 或更新版本** 的任意 IntelliJ 系 IDE 中运
 
 ## 许可证
 
-本项目基于 [MIT 许可证](LICENSE) 发布，创建自 [IntelliJ Platform Plugin Template][gh:template]。
-
-[gh:template]: https://github.com/JetBrains/intellij-platform-plugin-template
+本项目基于 [CallTrail 最终用户许可协议（EULA）](LICENSE.txt) 发布，创建自 [IntelliJ Platform Plugin Template][gh:template]。
