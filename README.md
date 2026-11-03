@@ -72,6 +72,6 @@ For building, testing, and debugging the plugin, refer to [CONTRIBUTING.md](CONT
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE) and was created using the [IntelliJ Platform Plugin Template][gh:template].
+This project is licensed under the [CallTrail End-User License Agreement](LICENSE.txt) and was created using the [IntelliJ Platform Plugin Template][gh:template].
 
 [gh:template]: https://github.com/JetBrains/intellij-platform-plugin-template
