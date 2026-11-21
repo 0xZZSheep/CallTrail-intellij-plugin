@@ -10,7 +10,7 @@ The callers and callees displayed in the graph match what appears in *Navigate |
 
 ## Opening the Call Graph
 
-Right-click the element in the editor and choose **Call Graph…** from the context menu. The popup opens at the mouse click location.
+Right-click the element in the editor and choose **CallTrail…** from the context menu. The popup opens at the mouse click location.
 
 ## How to Use the Graph
 
