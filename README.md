@@ -2,6 +2,8 @@
 
 **English** · [简体中文](README.zh-CN.md)
 
+[**Install from JetBrains Marketplace →**](https://plugins.jetbrains.com/plugin/34445-calltrail)
+
 **CallTrail** is a **call graph** and **call hierarchy** visualizer for IntelliJ IDEA, WebStorm, PyCharm, GoLand, PhpStorm, RubyMine, CLion, Rider, and Android Studio. Right-click a function or method and choose *Call Graph…* to see up to three caller levels above and three callee levels below it in a popup that stays beside your code instead of taking over a tool window.
 
 The callers and callees displayed in the graph match what appears in *Navigate | Call Hierarchy*, ensuring full consistency with the IDE's built-in analysis.
