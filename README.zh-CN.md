@@ -2,6 +2,8 @@
 
 [English](README.md) · **简体中文**
 
+[**从 JetBrains Marketplace 安装 →**](https://plugins.jetbrains.com/plugin/34445-calltrail)
+
 **CallTrail** 是一款面向 IntelliJ IDEA、WebStorm、PyCharm、GoLand、PhpStorm、RubyMine、CLion、Rider 和 Android Studio 的**调用图（call graph）**与**调用层次（call hierarchy）**可视化插件。在编辑器里右键函数或方法并选择 *Call Graph…*，即可在弹出的窗口中同时查看向上三层调用者和向下三层被调用者——窗口会停在代码旁边，而不是占用工具窗口。
 
 图里的调用者与被调用者，就是 *Navigate | Call Hierarchy* 里显示的那一批，因此它和 IDE 自己的判断一致。
